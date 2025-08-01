@@ -3,7 +3,7 @@
   <br>
   I'm Sumit—an  Aspiring Competative Programmer and  explorer
   <br>
-  Code. Music. Movies. Football. Repeat.
+  Code. Debug . Repeat.
   <br>
 
 </b></samp></p>
